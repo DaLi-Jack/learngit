@@ -1,0 +1,2 @@
+Now we learn to use git.
+First pull code local to github
